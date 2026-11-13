@@ -18,3 +18,5 @@ User story 3, alterar o estado de um objeto: o funcionário muda entre perdido, 
 User story 4, responder no fórum: o funcionário responde às mensagens dos clientes, por exemplo quando alguém diz que o objeto é seu.
 
 User story 5, passar o cartão: a leitura do cartão à entrada e à saída regista o dia e a hora, e é isso que permite reclamar um objeto.
+
+Packages:
