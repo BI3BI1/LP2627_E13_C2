@@ -19,4 +19,3 @@ User story 4, responder no fórum: o funcionário responde às mensagens dos cli
 
 User story 5, passar o cartão: a leitura do cartão à entrada e à saída regista o dia e a hora, e é isso que permite reclamar um objeto.
 
-Packages:
